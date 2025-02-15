@@ -2,5 +2,6 @@
 **/obj
 **/.vs
 **/.vscode
+**/.user
 build
 **/wwwRoot/*
