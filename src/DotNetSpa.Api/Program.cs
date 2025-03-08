@@ -9,7 +9,6 @@ using System.Text.Json.Serialization;
 using System;
 using Microsoft.Extensions.FileProviders;
 using DotNetSpa.Api.Routing;
-using DotNetSpa.Api.MiddleWare;
 
 namespace DotNetSpa.Api
 {
