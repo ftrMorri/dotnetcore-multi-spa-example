@@ -42,8 +42,6 @@ namespace DotNetSpa.Api
                 app.UseSwaggerUI();
             }
 
-            app.UseRoutingInfo();
-
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
